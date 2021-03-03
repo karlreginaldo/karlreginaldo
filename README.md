@@ -34,5 +34,5 @@
 
 
 ## My Skills 💻
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mikagura12&layout=compact' align='right' width="300" height="300">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mikagura12&layout=compact' align='left' width="300" height="300">
 
