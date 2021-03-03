@@ -17,7 +17,6 @@
 #### Talking about Personal Stuffs!
 
 <img src='https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47qd4ls9uhtaeyn1ikju2ldvbr9bl5cuvfmm1vxsd2&rid=giphy.gif' align='right' width="300" height="300">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mikagura12&layout=compact' align='right' width="300" height="300">
 
 - 🔭 I’m currently working on a few flutter projects.
 - 🤔 I’m looking for help with anything in which you have expertise.
@@ -26,7 +25,8 @@
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Ehh
 
-</br>
+</br></br></br></br>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mikagura12&layout=compact' align='right' width="300" height="300">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikagura12&show_icons=true&theme=radical)
 
