@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Karl.
+### Flutter Dev
+
 
 <!--
 **mikagura12/mikagura12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
