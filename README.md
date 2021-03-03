@@ -1,8 +1,6 @@
 ### Hello, I'm Karl😁
 
-
-Here are some ideas to get you started:
-
+Some of my info:
 - 🔭 I’m currently working on Flutter Team
 - 🌱 I’m currently learning Dart & Flutter
 - 👯 I’m looking to collaborate on FLutter Dev
