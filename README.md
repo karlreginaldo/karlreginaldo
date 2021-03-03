@@ -1,4 +1,4 @@
-### Bonjour 👋, I'm [Ayush](https://ayushagarwal.ml/)!
+### Bonjour 👋, I'm [Karl](https://ayushagarwal.ml/)!
 
 <a href="https://twitter.com/aagarwal1012">
   <img align="left" alt="Ayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
