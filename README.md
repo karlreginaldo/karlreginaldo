@@ -1,17 +1,15 @@
 ### Bonjour 👋, I'm [Karl](https://ayushagarwal.ml/)!
 
-<a href="https://twitter.com/aagarwal1012">
-  <img align="left" alt="Ayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/twentysicksssss">
+  <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/aagarwal1012/">
-  <img align="left" alt="Ayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/karl-jan-reginaldo-b227b5204/">
+  <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@aagarwal1012">
-  <img align="left" alt="Ayush's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="My Instagran" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCQsnIvnC7zeOhSImDOJmESA">
-  <img align="left" alt="Ayush's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aagarwal1012.aagarwal1012)
 [![GitHub followers](https://img.shields.io/github/followers/aagarwal1012.svg?style=social&label=Follow)](https://github.com/aagarwal1012?tab=followers)
