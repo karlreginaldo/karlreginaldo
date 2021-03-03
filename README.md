@@ -21,11 +21,8 @@
 <h6>Credits to this template: https://github.com/aagarwal1012</h6>
 
 
-## My Skills 💻
+## My Skills💻 and Social Media🌍
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikagura12&layout=compact)
-
-## My Social Media 🌍
-
 <a href="https://twitter.com/twentysicksssss">
   <img align="left" alt="My Twitter" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -35,4 +32,6 @@
 <a href="https://www.instagram.com/twentysickssssss/">
   <img align="left" alt="My Instagran" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
+
+
 
