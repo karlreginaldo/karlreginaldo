@@ -29,3 +29,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikagura12&show_icons=true&theme=radical)
 
+
+--Credits to this template: https://github.com/aagarwal1012
