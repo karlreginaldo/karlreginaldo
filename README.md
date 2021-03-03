@@ -32,9 +32,6 @@
 <a href="https://www.linkedin.com/in/karl-jan-reginaldo-b227b5204/">
   <img align="left" alt="My Linkdein" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
 <a href="https://www.instagram.com/twentysickssssss/">
   <img align="left" alt="My Instagran" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
