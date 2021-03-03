@@ -30,4 +30,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikagura12&show_icons=true&theme=radical)
 
 
-<p>-Credits to this template: https://github.com/aagarwal1012</p>
+<h6>Credits to this template: https://github.com/aagarwal1012</h6>
