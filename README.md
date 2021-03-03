@@ -25,15 +25,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikagura12&layout=compact)
 
 ## My Social Media 🌍
-<h6>Twentysicksssss</h6>
+
 <a href="https://twitter.com/twentysicksssss">
   <img align="left" alt="My Twitter" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<h6>Karl Jan Reginaldo</h6>
+<h6>Twentysicksssss</h6>
 <a href="https://www.linkedin.com/in/karl-jan-reginaldo-b227b5204/">
   <img align="left" alt="My Linkdein" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<h6>Karl Jan Reginaldo</h6>
+
 <h6>twentysickssssss</h6>
 <a href="https://www.instagram.com/twentysickssssss/">
   <img align="left" alt="My Instagran" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
+<h6>Karl Jan Reginaldo</h6>
+
