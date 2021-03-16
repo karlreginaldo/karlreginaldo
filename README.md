@@ -25,7 +25,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikagura12&layout=compact)
 
 ## Social Media
-<br>
 <a href="https://www.linkedin.com/in/karl-jan-reginaldo-b227b5204/"> LinkedIn</a><br>
 <a href="https://www.instagram.com/twentysickssssss/">Instagram</a><br>
 <a href="https://twitter.com/twentysicksssss"> Twitter</a><br>
