@@ -24,18 +24,16 @@
 ## My Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikagura12&layout=compact)
 
+##Social Media
+
+<a href="https://www.linkedin.com/in/karl-jan-reginaldo-b227b5204/"> LinkedIn</a>
+<a href="https://www.instagram.com/twentysickssssss/">Instagram</a>
+<a href="https://twitter.com/twentysicksssss"> Twitter</a>
 
 
-<br>
-<a href="https://twitter.com/twentysicksssss">
-  <img align="right" alt="My Twitter" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/karl-jan-reginaldo-b227b5204/">
-  <img align="right" alt="My Linkdein" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/twentysickssssss/">
-  <img align="right" alt="My Instagran" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
-</a>
+
+
+
 
 
 
