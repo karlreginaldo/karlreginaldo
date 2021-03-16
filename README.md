@@ -26,6 +26,7 @@
 
 ## Social Media
 <a href="https://www.linkedin.com/in/karl-jan-reginaldo-b227b5204/"> LinkedIn</a><br>
+<img href="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1615867029~hmac=601f60b4d7ec16414055183d7bcf5c9e"></img>
 <a href="https://www.instagram.com/twentysickssssss/">Instagram</a><br>
 <a href="https://twitter.com/twentysicksssss"> Twitter</a><br>
 
