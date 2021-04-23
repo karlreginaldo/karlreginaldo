@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a few flutter projects.
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything, but I may be slow to respond.
-- 📫 How to reach me: karljan.reginaldo@gmail.com
+- 📫 How to reach me: reginaldokarljan@gmail.com 
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I'm still learning design principle I still don't know if its worth it
 
