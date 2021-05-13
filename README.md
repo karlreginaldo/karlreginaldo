@@ -1,6 +1,6 @@
 ## Bonjour 👋, I'm [Karl](https://facebook.com/mikagura12/)!
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mikagura12.mikagura12)
-[![GitHub followers](https://img.shields.io/github/followers/mikagura12.svg?style=social&label=Follow)](https://github.com/mikagura12?tab=followers)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=karlreginaldo.karlreginaldo)
+[![GitHub followers](https://img.shields.io/github/followers/mikagura12.svg?style=social&label=Follow)](https://github.com/karlreginaldo?tab=followers)
 </br>
 #### Talking about Personal Stuffs!
 
@@ -15,14 +15,14 @@
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikagura12&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlreginaldo&show_icons=true&theme=radical)
 
 
 <h6>Credits to this template: https://github.com/aagarwal1012</h6>
 
 
 ## My Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikagura12&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlreginaldo&layout=compact)
 
 ## Social Media
 <a href="https://www.linkedin.com/in/karl-jan-reginaldo-b227b5204/"> LinkedIn</a><br>
