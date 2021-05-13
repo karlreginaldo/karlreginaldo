@@ -18,7 +18,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlreginaldo&show_icons=true&theme=radical)
 
 
-<h6>Credits to this template: https://github.com/aagarwal1012</h6>
 
 
 ## My Skills
