@@ -1,5 +1,5 @@
 ## Bonjour 👋, I'm [Karl](https://facebook.com/mikagura12/)!
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=karlreginaldo)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=karlreginaldo.karlreginaldo)
 [![GitHub followers](https://img.shields.io/github/followers/mikagura12.svg?style=social&label=Follow)](https://github.com/karlreginaldo?tab=followers)
 </br>
 #### Talking about Personal Stuffs!
