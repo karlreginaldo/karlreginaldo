@@ -11,7 +11,7 @@
 - 💬 Ask me about anything, but I may be slow to respond.
 - 📫 How to reach me: reginaldokarljan@gmail.com 
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I'm still learning design principle I still don't know if its worth it
+
 
 </br>
 
