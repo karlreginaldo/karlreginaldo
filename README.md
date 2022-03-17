@@ -29,6 +29,10 @@
 <a href="https://twitter.com/twentysicksssss">Twitter</a><br>
 <a href="https://www.facebook.com/mikagura12/">Facebook</a><br>
 
+## Dev Card
+<a href="https://app.daily.dev/mikagura12"><img src="https://api.daily.dev/devcards/5542fade54fb48058452e8beec245c8a.png?r=1rq" width="400" alt="KarlJan Reginaldo's Dev Card"/></a>
+
+
 
 
 
