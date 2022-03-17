@@ -3,8 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/karlreginaldo.svg?style=social&label=Follow)](https://github.com/karlreginaldo?tab=followers)
 </br>
 #### Talking about Personal Stuffs!
-
-<img src='https://raw.githubusercontent.com/karlreginaldo/karlreginaldo/master/intro_right_pic_2.png' align='right' width="300" height="300">
+<a href="https://app.daily.dev/mikagura12"><img src="https://api.daily.dev/devcards/5542fade54fb48058452e8beec245c8a.png?r=1rq" align='right'  width="300" alt="KarlJan Reginaldo's Dev Card"/></a>
+<!-- <img src='https://raw.githubusercontent.com/karlreginaldo/karlreginaldo/master/intro_right_pic_2.png' align='right' width="300" height="300"> -->
 
 - 🔭 I’m currently working on a few flutter projects.
 - 🤔 I’m looking for help with anything in which you have expertise.
@@ -20,9 +20,9 @@
 
 
 
-## My Skills and Card
+## My Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlreginaldo&layout=compact)
-<a href="https://app.daily.dev/mikagura12"><img src="https://api.daily.dev/devcards/5542fade54fb48058452e8beec245c8a.png?r=1rq" align='right'  width="300" alt="KarlJan Reginaldo's Dev Card"/></a>
+
 ## Social Media
 <a href="https://www.linkedin.com/in/karl-jan-reginaldo-b227b5204/"> LinkedIn</a><br>
 <a href="https://www.instagram.com/twentysickssssss/">Instagram</a><br>
