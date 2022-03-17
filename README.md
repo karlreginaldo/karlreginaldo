@@ -22,7 +22,7 @@
 
 ## My Skills and Card
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlreginaldo&layout=compact)
-<a href="https://app.daily.dev/mikagura12"><img src="https://api.daily.dev/devcards/5542fade54fb48058452e8beec245c8a.png?r=1rq" width="400" alt="KarlJan Reginaldo's Dev Card"/></a>
+<a href="https://app.daily.dev/mikagura12"><img src="https://api.daily.dev/devcards/5542fade54fb48058452e8beec245c8a.png?r=1rq" width="300" height="300" alt="KarlJan Reginaldo's Dev Card"/></a>
 ## Social Media
 <a href="https://www.linkedin.com/in/karl-jan-reginaldo-b227b5204/"> LinkedIn</a><br>
 <a href="https://www.instagram.com/twentysickssssss/">Instagram</a><br>
